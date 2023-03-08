@@ -1,2 +1,1 @@
-# Pizza.
-pizza project
+# pizza
